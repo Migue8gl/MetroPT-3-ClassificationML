@@ -1,6 +1,6 @@
 # MetroPT-3 Dataset Analysis
 
-This project explores the application of various machine learning algorithms, including **Naive Bayes**, **XGBoost**, **Decision Trees**, and **SVM**, on the **MetroPT-3 Dataset**. The dataset contains multivariate time series data from a metro train's Air Production Unit (APU), collected between February and August 2020. It includes 15 sensor readings (pressure, temperature, motor current, etc.) logged at 1Hz, totaling 15,169,480 instances.
+This project explores the application of various machine learning algorithms, including **Naive Bayes**, **XGBoost**, **Decision Trees**, **SVM** and different types of ensemble techniques on the **MetroPT-3 Dataset**. The dataset contains multivariate time series data from a metro train's Air Production Unit (APU), collected between February and August 2020. It includes 15 sensor readings (pressure, temperature, motor current, etc.) logged at 1Hz, totaling 15,169,480 instances.
 
 ## Dataset Overview
 - **Purpose**: Predictive maintenance, anomaly detection, and remaining useful life (RUL) prediction.
